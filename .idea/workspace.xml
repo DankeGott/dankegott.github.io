@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nlpnote1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="1711" column="54" lean-forward="true" selection-start-line="1711" selection-start-column="54" selection-end-line="1711" selection-end-column="54" />
+            <state relative-caret-position="403">
+              <caret line="1701" column="28" lean-forward="true" selection-start-line="1701" selection-start-column="28" selection-end-line="1701" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -226,7 +226,7 @@
       <workItem from="1545383288980" duration="15000" />
       <workItem from="1545383324713" duration="22000" />
       <workItem from="1547105655903" duration="4000" />
-      <workItem from="1553085823034" duration="5280000" />
+      <workItem from="1553085823034" duration="5312000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1543728355490</created>
@@ -274,7 +274,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11144000" />
+    <option name="totallyTimeSpent" value="11176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -421,8 +421,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nlpnote1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="1711" column="54" lean-forward="true" selection-start-line="1711" selection-start-column="54" selection-end-line="1711" selection-end-column="54" />
+        <state relative-caret-position="403">
+          <caret line="1701" column="28" lean-forward="true" selection-start-line="1701" selection-start-column="28" selection-end-line="1701" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
