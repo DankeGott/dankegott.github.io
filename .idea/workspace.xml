@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9b9e198-2701-4ef0-8e9d-45e37e1c4d4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nlpnote1.html" beforeDir="false" afterPath="$PROJECT_DIR$/nlpnote1.html" afterDir="false" />
-    </list>
+    <list default="true" id="d9b9e198-2701-4ef0-8e9d-45e37e1c4d4f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -228,7 +224,7 @@
       <workItem from="1547105655903" duration="4000" />
       <workItem from="1553085823034" duration="5870000" />
       <workItem from="1553170067060" duration="2683000" />
-      <workItem from="1553173503953" duration="372000" />
+      <workItem from="1553173503953" duration="383000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1543728355490</created>
@@ -279,15 +275,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553173417834</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="earth">
+      <created>1553174221868</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553174221868</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14789000" />
+    <option name="totallyTimeSpent" value="14800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
