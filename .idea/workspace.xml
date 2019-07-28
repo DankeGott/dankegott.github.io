@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b9e198-2701-4ef0-8e9d-45e37e1c4d4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/408.html" beforeDir="false" afterPath="$PROJECT_DIR$/408.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/408.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="1599" column="22" lean-forward="true" selection-start-line="1599" selection-start-column="22" selection-end-line="1599" selection-end-column="22" />
+            <state relative-caret-position="219">
+              <caret line="1590" column="48" selection-start-line="1590" selection-start-column="48" selection-end-line="1590" selection-end-column="48" />
               <folding>
                 <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -209,7 +209,7 @@
       <workItem from="1553170067060" duration="2683000" />
       <workItem from="1553173503953" duration="383000" />
       <workItem from="1562898977449" duration="39000" />
-      <workItem from="1564298032285" duration="2640000" />
+      <workItem from="1564298032285" duration="2893000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1543728355490</created>
@@ -274,11 +274,25 @@
       <option name="project" value="LOCAL" />
       <updated>1564304768365</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix error">
+      <created>1564304864547</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1564304864547</updated>
+    </task>
+    <task id="LOCAL-00011" summary="addtouch">
+      <created>1564305104341</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1564305104341</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17479000" />
+    <option name="totallyTimeSpent" value="17732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -330,7 +344,9 @@
     <MESSAGE value="main page modify" />
     <MESSAGE value="new page" />
     <MESSAGE value="earth" />
-    <option name="LAST_COMMIT_MESSAGE" value="earth" />
+    <MESSAGE value="fix error" />
+    <MESSAGE value="addtouch" />
+    <option name="LAST_COMMIT_MESSAGE" value="addtouch" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/pic01.jpg" />
@@ -521,8 +537,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/408.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="1599" column="22" lean-forward="true" selection-start-line="1599" selection-start-column="22" selection-end-line="1599" selection-end-column="22" />
+        <state relative-caret-position="219">
+          <caret line="1590" column="48" selection-start-line="1590" selection-start-column="48" selection-end-line="1590" selection-end-column="48" />
           <folding>
             <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
